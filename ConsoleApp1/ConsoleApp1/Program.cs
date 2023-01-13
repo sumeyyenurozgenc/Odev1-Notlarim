@@ -11,6 +11,10 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("My first commit");
+
+            string update = "My second commit";
+            Console.WriteLine(update);
+
             Console.ReadLine();
         }
     }
